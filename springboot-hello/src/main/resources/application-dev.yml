@@ -1,0 +1,3 @@
+resource:
+  fileServer: http://dev.file.com
+  emailServer: http://dev.email.com
